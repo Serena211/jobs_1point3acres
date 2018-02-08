@@ -1,4 +1,4 @@
-Code for Work, code for FUN. Code is making mylife better.
+//Code for Work, code for FUN. Code is making mylife better.
 function drawThumb() {
     let i = 0;
     while (i < 15) {
